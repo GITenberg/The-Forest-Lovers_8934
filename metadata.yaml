@@ -1,0 +1,28 @@
+_repo: The-Forest-Lovers_8934
+creator:
+  author:
+    agent_name: Hewlett, Maurice
+    alias: Hewlett, Maurice Henry
+    birthdate: 1861
+    deathdate: 1923
+    gutenberg_agent_id: '1864'
+    url: http://www.gutenberg.org/2009/agents/1864
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Hewlett
+description: A story of the days of chivalry, breathing the spirit of romance and
+  high adventure.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8934'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Knights and knighthood -- Fiction'
+- !lcsh 'Historical fiction'
+title: The Forest Lovers
+url: http://www.gutenberg.org/ebooks/8934
